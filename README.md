@@ -1,18 +1,18 @@
-# 🎉 Buscador de GIFs (Flutter + Giphy API)
+# Buscador de GIFs (Flutter + Giphy API)
 
 Aplicativo desenvolvido com **Flutter** que permite **pesquisar e visualizar GIFs animados em tempo real**, utilizando a **API do Giphy**. É possível navegar por GIFs em alta, procurar por palavras-chave, compartilhar com um clique e visualizar em tela cheia.
 
 ---
 
-## ✨ Funcionalidades
+## #✨ Funcionalidades
 
-- 🔍 Pesquisa de GIFs por palavras-chave (usando a API do Giphy)
-- 📈 Exibição dos GIFs mais populares quando nenhum termo de busca é informado
-- 🖼️ Visualização de GIF em tela cheia ao tocar
-- 📤 Compartilhamento rápido de GIFs via botão de ação ou toque longo
-- ➕ Paginação com botão **"Carregar mais..."** ao final da lista de resultados
-- ⚡ Imagens carregadas com efeito de transição suave (FadeInImage)
-- 🎨 Interface elegante com tema escuro
+- Pesquisa de GIFs por palavras-chave (usando a API do Giphy)
+- Exibição dos GIFs mais populares quando nenhum termo de busca é informado
+- Visualização de GIF em tela cheia ao tocar
+- Compartilhamento rápido de GIFs via botão de ação ou toque longo
+- Paginação com botão **"Carregar mais..."** ao final da lista de resultados
+- Imagens carregadas com efeito de transição suave (FadeInImage)
+- Interface elegante com tema escuro
 
 ---
 
@@ -27,7 +27,7 @@ Aplicativo desenvolvido com **Flutter** que permite **pesquisar e visualizar GIF
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 1. Certifique-se de ter o **Flutter SDK** instalado.
 2. Clone este repositório:
