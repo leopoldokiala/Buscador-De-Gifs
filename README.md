@@ -32,7 +32,7 @@ Aplicativo desenvolvido com **Flutter** que permite **pesquisar e visualizar GIF
 1. Certifique-se de ter o **Flutter SDK** instalado.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/buscador-de-gifs.git
+   git clone https://github.com/leopoldokiala/Strong-Translator
 
 Navegue até o diretório do projeto:
 cd buscador-de-gifs
